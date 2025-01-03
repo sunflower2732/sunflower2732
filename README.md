@@ -12,26 +12,6 @@ I’m a **programmer and economics student** with a quantitative specialization.
 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) | ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) | ![Stata](https://img.shields.io/badge/-Stata-1F5081?logo=stata&logoColor=white) |
 ---
 
-## 📚 Academic Background
-
-### 🎓 **Bachelor’s Degree in Economics** (formerly International Business Economics)  
-**Universitat Pompeu Fabra, Barcelona, Spain**  
-- **Current GPA (years 1&2):** 7.9/10 (Top 13/162 in Economics and Top 12/90 in International Business Economics)  
-- **Specialization Track:** Advanced Quantitative Methods  
-- **Key Achievements:**  
-  - Honours in *Introduction to Macroeconomics*  
-  - High grades in *Game Theory* (9.3), *Financial Derivatives and Risk Management* (9.2), *Macroeconomics I* (9.2)  
-  - **Special Interests:** Macroeconomics, Finance, and Statistics  
-
-### 🎓 **Minor in Programming**  
-**Universitat Pompeu Fabra, Barcelona, Spain**  
-- **Current GPA:** 8.3  
-- **Key Achievements:**  
-  - Honours in *Data Structures and Algorithms*  
-  - Developed a console role-playing game called *UPF Attack* using C (Available on GitHub)  
-
----
-
 ## 🌐 Connect with Me
 - **GitHub:** [GitHub Profile](https://github.com/sunflower2732)
 - **LinkedIn:** [Linkedin Profile](https://www.linkedin.com/in/nour-esbri-minambres)
