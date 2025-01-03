@@ -1,6 +1,6 @@
 # Welcome to My LinkedIn Profile!
 
-I’m a **programmer and quantitative analyst** with a passion for developing efficient solutions and leveraging technology to solve complex problems. My expertise lies in **data analysis**, **software development**, and creating tools for **finance** and **statistics**. With a strong focus on programming, I have built projects ranging from console games to data-driven applications using **Python**, **Java**, and **C**.
+I’m a **programmer and economics student** with a quantitative specialization. My expertise lies in **data analysis**, **software development**, and creating tools for **finance** and **statistics**. With a strong focus on programming, I have built projects ranging from console games to data-driven applications using **Python**, **Java**, and **C**.
 
 ---
 
@@ -33,8 +33,8 @@ I’m a **programmer and quantitative analyst** with a passion for developing ef
 ---
 
 ## 🌐 Connect with Me
-- **GitHub:** [https://github.com/yourusername](https://github.com/yourusername)  
-- **LinkedIn:** [https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/yourname)  
-- **Email:** [your-email@example.com](mailto:nour.esmi27@gmail.com)
+- **GitHub:** [GitHub Profile](https://github.com/sunflower2732)
+- **LinkedIn:** [Linkedin Profile](https://www.linkedin.com/in/nour-esbri-minambres)
+- **Email:** [nour.esmi27@gmail.com](mailto:nour.esmi27@gmail.com)
 
 
