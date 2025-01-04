@@ -1,4 +1,4 @@
-# Welcome to My LinkedIn Profile!
+# Welcome to My GitHub Profile!
 
 I’m a **programmer and economics student** with a quantitative specialization. My expertise lies in **data analysis**, **software development**, and creating tools for **finance** and **statistics**. With a strong focus on programming, I have built projects ranging from console games to data-driven applications using **Python**, **Java**, and **C**.
 
